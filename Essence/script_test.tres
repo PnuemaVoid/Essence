@@ -1,0 +1,5 @@
+$Shard_name
+John[event]::Here is some dialogue, with a speaker!
+Here is some dialogue, without a speaker!
+[cool_event]::What if there is an event, but no speaker?
+[event_1][event_2]::What if we have 2 events one after the other?
